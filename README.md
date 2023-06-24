@@ -1,12 +1,13 @@
 # Configuration Management and the Cloud 
 > By Grow with Google, Coursera
 #### The course is streamed from Google IT Automation with Python Professional Certificate 
-
+--- 
 The course is divided into 4 parts:
 1. Automation and Configuration Management
 2. Deploying Puppet
 3. Automation in the Cloud
 4. Managinng Cloud Instance at Scale.
+---
 
 1 Automation and Configuration Management
   * Concept of automation at scale and how it can be successfully achieved.
@@ -18,3 +19,4 @@ The course is divided into 4 parts:
   * Learn about Declarative, Procedural, and Idempotent principals and how they differ from each other.
 
 2 Deploying Puppet
+  * 
