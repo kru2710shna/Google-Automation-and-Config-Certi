@@ -17,6 +17,7 @@ The course is divided into 4 parts:
   * Dive into Infrastructure as code and learn about the benefits it brings, like making your fleet of nodes more reliable and repeatable.
   * Introduced to Puppet, its Resources and Classes.
   * Learn about Declarative, Procedural, and Idempotent principles and how they differ from each other.
+---
 
 2 Deploying Puppet
   * Deploy and run Puppet locally
