@@ -26,5 +26,17 @@ The course is divided into 4 parts:
   * Understand the difference between production and testing environments
   * Explore how canaries and development environments are helpful when deploying changes
   * Understand the benefits of multiple environments
+---
 
 3 Automation in the Cloud
+ * Understand and define SaaS, PaaS, and IaaS
+ * Understand the concept of scaling in the cloud and the different ways of scaling
+ * Explain what lift and shift mean when migrating to the cloud
+ * Deploy an instance in the cloud
+ * Understand the difference between auto-scaling and load balancing
+ * Differentiate between orchestration and automation
+ * Define the concept of Infrastructure as Code (IaC)
+--- 
+   
+4  Cloud Computing 
+
