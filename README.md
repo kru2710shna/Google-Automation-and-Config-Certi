@@ -39,4 +39,11 @@ The course is divided into 4 parts:
 --- 
    
 4  Cloud Computing 
+ * Understand and explain the different types of storage available
+ * Explain the difference between round-robin DNS and sticky sessions
+ * List the different types of integration testing that are available
+ * Understand and explain the concept of SLAs
+ * Troubleshoot and debug a system without being physically present
+ * Understand what a rollback is and how it can help in a system failure
+ * Understand how primary and secondary instances can help in a disaster recovery situation
 
